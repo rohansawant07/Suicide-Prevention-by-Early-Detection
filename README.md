@@ -38,10 +38,4 @@ These models were selected for their strengths in text data analysis and classif
 
 Refer to `requirements.txt` for a detailed list of dependencies.
 
-## Installation
-Clone the repository and install dependencies:
 
-```bash
-git clone https://github.com/yourgithubusername/suicide-detection-twitter.git
-cd suicide-detection-twitter
-pip install -r requirements.txt
