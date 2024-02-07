@@ -1,5 +1,3 @@
-# Suicide-Prevention-by-Early-Detection
-
 # Suicide Detection by Twitter Dataset using ChatGPT and Other ML Models
 
 ## Overview
